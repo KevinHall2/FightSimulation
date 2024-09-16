@@ -42,7 +42,7 @@ namespace FightSimulation
             //mosnter 2
             _monster2 = new Monster("Naga", 15, 15, 10);
 
-            _monster3 = new Monster("UW", 100, 30, 20);
+            _monster3 = new Monster("William", 100, 30, 20);
 
             PrintStats(_monster1);
             PrintStats(_monster2);
